@@ -1,0 +1,4 @@
+{
+  "nacl": "./nacl.js",
+  "blakejs": "blakejs"
+}

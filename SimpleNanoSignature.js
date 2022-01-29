@@ -1,6 +1,7 @@
 /*jshint esversion: 10 */
-const nacl = require('./nacl.js');
-const blakejs = require('blakejs');
+const config = require('./config.json');
+const nacl = require(config.nacl);
+const blakejs = require(config.blakejs);
 
 /*
   Based on the work of https://github.com/anarkrypto
