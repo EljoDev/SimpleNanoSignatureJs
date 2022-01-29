@@ -1,0 +1,23 @@
+{
+  "name": "simplenanosignature",
+  "version": "1.0.0",
+  "description": "SimpleNanoSignature is a simple pure JavaScript signature tool.",
+  "main": "SimpleNanoSignature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nano",
+    "Crypto",
+    "signature",
+    "cryptography",
+    "nacl",
+    "XNO",
+    "cryptocurrency"
+  ],
+  "author": "eljo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "blakejs": "^1.1.1"
+  }
+}
