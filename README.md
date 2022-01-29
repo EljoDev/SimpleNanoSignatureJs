@@ -6,7 +6,8 @@ Installation :
   ```
  npm install blakejs
   ```
- or
+  and download ```SimpleNanoSignature.js, nacl.js and config.json```\
+ or\
  download the full github repository
  
  you can edit ```config.json```
