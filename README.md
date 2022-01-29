@@ -39,5 +39,5 @@ Fully based on the work of [anarkrypto](https://github.com/anarkrypto)\
 [Tweet nacl](https://github.com/dchest/tweetnacl-js) forked by [anarkrypto](https://github.com/anarkrypto) [here](https://github.com/anarkrypto/nanodrop/blob/main/src/models/nano-wallet/utils/nacl.js)
 
 
-Donation for [anarkrypto](https://github.com/anarkrypto) : ```nano_37f4cm1tu94tteodph6xwwnoowhiae3q483kgfwzd75ns7tbp9uknot4qihe```
+Donation for [anarkrypto](https://github.com/anarkrypto) : ```nano_3kc8wwut3u8g1kwa6x4drkzu346bdbyqzsn14tmabrpeobn8igksfqkzajbb```
 
